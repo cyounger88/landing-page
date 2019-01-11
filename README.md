@@ -6,21 +6,7 @@ A website showcasing me and my web development projects.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Clone this repository
-
-```
 
 Open a simple HTTP server in the top level of the cloned directory. Then open the browser of your choice to localhost:8080
 
