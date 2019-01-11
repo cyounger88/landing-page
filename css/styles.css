@@ -1,0 +1,29 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .pic {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60");
+  
+    height: 100%;
+    width: 50%;
+    position: fixed; 
+    top:0;
+  }
+
+.menu {
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left:35%;
+    margin-top: 250px;
+    font-size: 30px;
+   
+}
+
+  
