@@ -23,7 +23,6 @@ body, html {
     left:35%;
     margin-top: 250px;
     font-size: 30px;
-   
 }
 
 .projects:hover {
@@ -44,6 +43,10 @@ body, html {
     text-decoration: none;
 }
 
-.contactus {
-    text-align: center
+#contactus {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    margin-top: 35%;
+    text-align: center;
 }
