@@ -1,0 +1,54 @@
+# Landing Page
+
+A website showcasing me and my web development projects. 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running
+
+Clone this repository
+
+```
+
+Open a simple HTTP server in the top level of the cloned directory. Then open the browser of your choice to localhost:8080
+
+```
+
+
+## Built With
+
+* HTML - The web framework used
+* CSS - For styling 
+
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+## Authors
+
+* **Christopher Younger** - *Initial work* - [Cyounger88](https://github.com/cyounger88)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to Epicodus for helping me learn these languages
+* Inspiration
+* etc
+
