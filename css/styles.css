@@ -50,3 +50,7 @@ body, html {
     margin-top: 35%;
     text-align: center;
 }
+
+.jumbotron {
+    text-align: center;
+}
