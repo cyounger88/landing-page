@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 Open a simple HTTP server in the top level of the cloned directory. Then open the browser of your choice to localhost:8080.
+You can access a live page at https://cyounger88.github.io/landing-page/
 
 ```
 
